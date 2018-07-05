@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "720954232383",
+    "firebase_url": "https://cbusofficialtrialfour.firebaseio.com",
+    "project_id": "cbusofficialtrialfour",
+    "storage_bucket": "cbusofficialtrialfour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720954232383:android:ee12204f7557136e",
+        "android_client_info": {
+          "package_name": "com.example.jayhari.cbusofficialtrialfour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720954232383-r908pb4920e9kh9d22t3vhc57qmlsehe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jayhari.cbusofficialtrialfour",
+            "certificate_hash": "db0ee52259b3aa64367de8227a2e79f632f5dd1f"
+          }
+        },
+        {
+          "client_id": "720954232383-vl1prlsi55klc4i35uqvkrj9bri417ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_U6YOHs63WYxnpNzCUDrxI6tijTkeH7g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720954232383-vl1prlsi55klc4i35uqvkrj9bri417ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
